@@ -1,0 +1,87 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Resep Nasi Goreng",
+      "image": "https://play-lh.googleusercontent.com/ClEC2Gf_FPfosB9hy2V4OeEOP0uHvwhESF8oo5ecJCLXeDfP9QufsuxqOfbhDvBFcnQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.Wajburni.resepnasigoreng&hl=en-ID"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": " How to Use An AI Writer to Create Impactful Content",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTULazWQcirmvBsHEUfslSx7JAa76yPLBi5-w&usqp=CAU",
+      "description": "This question probably gnaws at every content marketer’s mind the moment they think of trying out an AI writer. ",
+      "link": "https://wajburnidev12.blogspot.com/p/how-to-use-ai-writer-to-create.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "  10 Free AI Text Generator Tools To Use At Work In 2023.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzByc7uyko3jsP95iJ-aViHsTK5p3gaNNIGQ&usqp=CAU",
+      "description": "Writing is a critical part of collaboration in the workplace – whether that’s project briefs, emails, meeting notes, product launches, or other content pieces. ",
+      "link": "https://wajburnidev12.blogspot.com/p/10-free-ai-text-generator-tools-to-use.html" 
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "What Is Jenni.ai?.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtp8PJ4ZkbhlapYxpXunIGIeLtQM0QNIrsjg&usqp=CAU",
+      "description": "Jenni is an advanced AI writing system that helps you produce content faster. ",
+      "link": "https://wajburnidev12.blogspot.com/p/what-is-jenniai.html" 
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": " Jenni AI review: What is Jenni AI?.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzByc7uyko3jsP95iJ-aViHsTK5p3gaNNIGQ&usqp=CAU",
+      "description": "Jenni AI combines its in-house AI systems, GPT4 and ChatGPT, to accomplish writers’ goals. ",
+      "link": "https://wajburnidev12.blogspot.com/p/jenni-ai-review-what-is-jenni-ai.html" 
+    }
+  ]
+}
