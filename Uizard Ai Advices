@@ -1,10 +1,10 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "FACEBOOK",
       "select_backup_ads":"",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
+      "main_ads_banner": "656177153039739_659408869383234",
+      "main_ads_intertitial":"656177153039739_659408952716559",
       "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
@@ -66,6 +66,70 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yoMrruTfMXKTcIMjq0eKFZOcvYOic_PZxA&usqp=CAU",
       "description": "Welcome to the magical world of Uizard! If you're new to the design game. ",
       "link": "https://wajburnidev12.blogspot.com/p/a-beginners-guide-to-uizard.html" 
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "10 UI design tips for your next project",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuV0uo_XxWjZBe_w_BrUB8a9p7eznpAfOCVA&usqp=CAU",
+      "description": "Without a really great UI design, not only would apps and websites be tricky to use, but they also wouldn’t look half as good",
+      "link": "https://wajburnidev12.blogspot.com/p/10-ui-design-tips-for-your-next-project.html" 
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": " Uizard Autodesigner: Text to Design, Automated by AI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCOho-kXZhl1RzKVLAVuSb_I614vo5hmxr1A&usqp=CAU",
+      "description": "Designing digital products has never been easier with Uizard Autodesigner",
+      "link": "https://wajburnidev12.blogspot.com/p/uizard-autodesigner-text-to-design.html" 
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": " Uizard Autodesigner",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFPzyz_5zhjvQsPKgpuiqwslEj0UqhBaJPEA&usqp=CAU",
+      "description": " It is designed for both designers and non-designers, providing a range of features to make collaboration and iteration simpler.",
+      "link": "https://wajburnidev12.blogspot.com/p/uizard-autodesigner.html" 
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "Uizard Autodesigner: AI-Powered Design Made Easy",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuV0uo_XxWjZBe_w_BrUB8a9p7eznpAfOCVA&usqp=CAU",
+      "description": "By simply typing out project ideas in plain English, users can bring their design visions to life in seconds",
+      "link": "https://wajburnidev12.blogspot.com/p/uizard-autodesigner-ai-powered-design.html" 
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": " Uizard: A Comprehensive Review of the AI Design Tool",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwLSC0PbYUtsawO7G6iRuzVUrhgEjbAG55mA&usqp=CAU",
+      "description": "Uizard is an AI-powered UI design tool that allows users to create stunning mobile app and website designs in minutes",
+      "link": "https://wajburnidev12.blogspot.com/p/uizard-comprehensive-review-of-ai.html" 
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": " Uizard: Streamlined Projects with AI Technology",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQvHpae4l60dAcldm695M_kKQE_2tljkqL1g&usqp=CAU",
+      "description": "Uizard review: Uizard main page..",
+      "link": "https://wajburnidev12.blogspot.com/p/uizard-streamlined-projects-with-ai.html" 
+    },
+    {
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "Who Can Benefit from Uizard?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbBwE1zJrWHSM0Yr1P647oedq_jrkgm4FwUg&usqp=CAU",
+      "description": "Welcome to the magical world of Uizard! If you're new to the design game. ",
+      "link": "https://wajburnidev12.blogspot.com/p/who-can-benefit-from-uizard.html" 
+    },
+    {
+      "id": 10,
+      "name_category": "Tutorial",
+      "title": "How to Use Uizard",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY41g0karXdgSsgAdjRh9HvGkF_VtTUDA2cg&usqp=CAU",
+      "description": "Ready to give Uizard a try? It’s a breeze! Just follow these simple steps for rapid and collaborative ideation for your designs:",
+      "link": "https://wajburnidev12.blogspot.com/p/how-to-use-uizard.html" 
     }
   ]
 }
